@@ -12,8 +12,8 @@ function formatDate(date) {
 }
 
 function App() {
-  const [username, setUsername] = useState("PRINCE-24CS072");
-  const [activeUser, setActiveUser] = useState("PRINCE-24CS072");
+  const [username, setUsername] = useState("Pramathdesai");
+  const [activeUser, setActiveUser] = useState("Pramathdesai");
   const [profile, setProfile] = useState(null);
   const [repos, setRepos] = useState(fallbackRepos);
   const [status, setStatus] = useState("idle");
