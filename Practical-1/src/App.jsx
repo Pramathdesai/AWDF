@@ -7,10 +7,10 @@ import Footer from './components/Footer'
 
 function App() {
   const student = {
-    name: 'Patel Prince',
-    title: 'Student ID: 24CS072',
-    intro: 'I am Prince, a Computer Science and Technology student at Charusat University. I am passionate about web development and building innovative solutions.',
-    contact: '24cs072@charusat.edu.in',
+    name: 'Pramath Desai',
+    title: 'Student ID: 24CS017',
+    intro: 'I am Pramath, a Computer Science and Technology student at Charusat University. I am passionate about web development and building innovative solutions.',
+    contact: '24cs017@charusat.edu.in',
     skills: ['HTML', 'CSS', 'JavaScript', 'Java', 'Python', 'React', 'Node.js'],
     projects: [
       { id: 1, name: 'Portfolio Website', description: 'A personal portfolio website built with React and Vite showcasing my projects and skills.' },
